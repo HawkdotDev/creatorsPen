@@ -1,12 +1,12 @@
-# Creator's Pen
+# CreatorsPen
 
-Project Description: Creator's Pen is a tool that utilizes open-source LLMs, AI, and several APIs for analyzing your style and then writing optimized creative scripts or material for content such as YouTube videos and movies in your style.
+creatorsPen is a tool that utilizes open-source LLMs, AI, and several APIs for analyzing your style and then writing optimized creative scripts or material for content such as YouTube videos and movies in your style.
 
 ![Creator's Pen](link-to-screenshot-or-gif)
 
 ## Overview
 
-Creator's Pen is designed to streamline the creative process for content creators by generating high-quality, personalized content based on their unique style. By leveraging advanced AI technologies, the tool analyzes the user's writing style and preferences to produce tailored scripts or materials for various content formats.
+creatorsPen is designed to streamline the creative process for content creators by generating high-quality, personalized content based on their unique style. By leveraging advanced AI technologies, the tool analyzes the user's writing style and preferences to produce tailored scripts or materials for various content formats.
 
 ## Features
 
@@ -18,7 +18,7 @@ Creator's Pen is designed to streamline the creative process for content creator
 
 ## Getting Started
 
-To get started with Creator's Pen, follow these steps:
+To get started with creatorsPen, follow these steps:
 
 1. **Step 1**: Clone the repository.
 2. **Step 2**: Install the necessary dependencies.
@@ -27,7 +27,7 @@ To get started with Creator's Pen, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Creator's Pen, please follow these guidelines:
+We welcome contributions from the community! If you'd like to contribute to creatorsPen, please follow these guidelines:
 
 - Fork the repository.
 - Create a new branch (`git checkout -b feature/improvement`).
